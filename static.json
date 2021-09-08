@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "direva99"
+      "X-Author": "direva99",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
